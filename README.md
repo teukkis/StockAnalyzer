@@ -12,7 +12,7 @@ Sample file = appleStock.csv ( apple stock data )
 
 #### Operations
 The program can perform three different tasks:\
-  $\qquad$A, a = The longest bullish (upward) trend within a given date range\
+  A, a = The longest bullish (upward) trend within a given date range\
   B, b = List of dates, volumes and price changes. The list is ordered by
 volume and price change.\
   C, c = List of dates and price change percentages. The list is ordered by
