@@ -27,3 +27,6 @@ example:
 1. `docker build -t stock_analyzer .`
 2. `docker run -it stock_analyzer -sd=1.12.2018 -ed=11.1.2021 -o=B`
 
+#### OR
+
+python3 stock_analyzer.py -sd=1.12.2018 -ed=11.1.2021 -o=B
