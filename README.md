@@ -20,10 +20,10 @@ price change percentages.
 
 
 #### Run program
-docker build -t <tag_name> . 
-  && docker run -it <tag_name> -sd=<dd.mm.yyyy> -ed = <dd.mm.yyyy> -o=<a, b, c>  
+`docker build -t <tag_name> . 
+  && docker run -it <tag_name> -sd=<dd.mm.yyyy> -ed = <dd.mm.yyyy> -o=<a, b, c>`  
 
 example:
-  docker build -t stock_analyzer . 
-    && docker run -it stock_analyzer -sd=1.12.2016 -ed=11.1.2020> -o=B
+  `docker build -t stock_analyzer . 
+    && docker run -it stock_analyzer -sd=1.12.2016 -ed=11.1.2020> -o=B`
 
