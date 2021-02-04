@@ -6,8 +6,8 @@
 Sample file = appleStock.csv ( apple stock data )
 
 #### Flags
-  -sd, start date\n
-  -ed, end date
+  -sd, start date\
+  -ed, end date\
   -o, operation
 
 #### Operations
